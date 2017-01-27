@@ -1,7 +1,8 @@
-SuperFizz homework
-string_test
-fixnum_test
-sorting project
+done by monday
+Bubble Sort
+Credit Check
+
+
 Primer on .each exercises
 Drills
 POODIR

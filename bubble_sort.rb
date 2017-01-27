@@ -10,7 +10,7 @@ class BubbleSort
         previous = collection[i]
         current = collection[i + 1]
         if current < previous
-          collection[i], collection[i + 1] = collection[i + 1], collection[i]
+          collection[i, 2] = collection[i, 2].reverse
         end
         i += 1
       end
@@ -23,3 +23,5 @@ end
 sorter = BubbleSort.new
 
 puts sorter.sort(["d", "b", "a", "c", "f", "e"])
+
+collection[i, i + 1] = collection[i + 1, i]
