@@ -1,0 +1,6 @@
+. <- project root
+
+  lib/ source code
+  test/ test code
+  bin/ executables
+  data/ data files like .txt

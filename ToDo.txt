@@ -1,12 +1,15 @@
-
+lightning talks monday 9am choose topic to talk about
 linkedin stuff
-pick project and message Lauren - end of today
-do project - R 9am
+design questions - instance variable initialization
+                   run methods after class or within new method (operate?)
+                   move alphabet into .txt?
+
 
 Drills
 POODIR
 codewars
 learn javascript
+DTR memo for a project
 
 learn about machine learning and neural networks
   learn python
